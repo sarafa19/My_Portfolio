@@ -21,7 +21,7 @@ def main():
     page = st.sidebar.radio("Aller à", ["🌝Welcome !!!", "🚴‍♂️Cyclo-Paris", "📖Multi-label patent classification",'🛒Amazon BeReal','🚌EfreiCar - Datacamp','🩸Diabetes prediction','essai'])
     
     if page == "🌝Welcome !!!":
-        import My_Portfolio.Accueil as Accueil
+        import Accueil
         Accueil.display_home()
     elif page == "🚴‍♂️Cyclo-Paris":
         import Accidents_velo_app  
