@@ -98,11 +98,11 @@ def show_projects():
          "tools": "Python, TensorFlow, Scikit-learn, Multi-Layer Perceptron (MLP) - utilized for model development, training, and evaluation to ensure high precision in multi-label classification tasks.",
          "width": 270, 
          "image": "https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"},
-        {"title": "Multi-label patent classification - September 2024",
-         "description": "Developed a Natural Language Processing (NLP) prediction model in response to a request for proposals from LIPSTIP company, aimed at classifying patents by multiple Cooperative Patent Classification (CPC) labels. This project involved building a robust multi-label classification system to accurately categorize patent texts into relevant CPC labels, optimizing model accuracy for diverse and complex classifications in intellectual property",
-         "tools": "Python, TensorFlow, Scikit-learn, Multi-Layer Perceptron (MLP) - utilized for model development, training, and evaluation to ensure high precision in multi-label classification tasks.",
+        {"title": " Scheduling and Shortest Path Optimization Algorithm - September 2024",
+         "description": "Developed an applied mathematics algorithm focused on scheduling and path optimization to solve complex routing problems, such as finding the shortest path and determining the critical path. The project utilized algorithms like Bellman-Ford and Dijkstra to efficiently calculate optimal routes and manage task scheduling. This approach enabled precise identification of the most time-efficient paths and key dependencies in project networks, supporting effective resource allocation and minimizing delays.",
+         "tools": "Objected Oriented Programming in Java, Bellman-Ford, Dijkstra - applied for shortest path and critical path calculations, enhancing scheduling accuracy and route optimization.",
          "width": 270, 
-         "image": "https://cdn.dribbble.com/users/2851002/screenshots/7151143/media/ceb737f35e10415cd3ce2379040be8a4.gif"},
+         "image": "https://media1.tenor.com/images/a1116874768fa37cf0a2ad5147aab585/tenor.gif?itemid=7202023f"},
         {"title": "Sarah Shop architecture based on restful APIs - July 2024",
          "description": " Designed and implemented a comprehensive e-commerce platform, Sarah Shop, with full CRUD (Create, Read, Update, Delete) functionality and integrated state and transaction management. The platform architecture was built on RESTful APIs to enable seamless and efficient handling of e-commerce operations, providing a dynamic and responsive user experience",
          "tools": "MySQL, PHPMyAdmin, JavaScript, vue.js, react.js, Node.js ",
@@ -152,8 +152,8 @@ def show_experiences():
     st.subheader("Welcome to My Passionate Journey in Big Data Engineering !", anchor=False)
     st.write(
     """
-    I am excited to welcome you to this space that reflects my passion for Data Engineering and the development of innovative solutions. As a person full of energy, I firmly believe that curiosity and determination are key to transforming ideas into tangible accomplishments.
-    Through my projects, I aim to tackle complex problems by leveraging my skills in data analysis, machine learning, and web development. Each project you will discover here showcases my commitment to excellence and my ability to face technical challenges.
+    I am excited to welcome you to this space that reflects my passion for Data Engineering and the development of innovative solutions😄. As a person full of energy, I firmly believe that curiosity and determination are key to transforming ideas into tangible accomplishments.
+    Through my projects, I aim to tackle complex problems 👾 by leveraging my skills in data analysis, machine learning, and web development. Each project you will discover here showcases my commitment to excellence and my ability to face technical challenges.
     """
     )
     # --- SKILLS ---
@@ -161,11 +161,11 @@ def show_experiences():
     st.subheader("Exploring Creativity Through Travel and Collaboration !", anchor=False)
     st.write(
     """
-    But beyond my technical skills, I am also a fun and dynamic individual, always ready to take on new challenges. I love to travel and explore unusual places, which fuels my creativity and inspires my work. These enriching experiences broaden my horizons and motivate me to incorporate new perspectives into my projects.
-    I invite you to explore my achievements and see how I combine my technical skills with my passion for innovation. Please feel free to reach out if you'd like to exchange ideas, collaborate, or simply discuss exciting projects. Together, let's push the boundaries of technology and explore new frontiers!
+    But beyond my technical skills, I am also a fun and dynamic individual, always ready to take on new challenges. I love to travel and explore unusual places 🌍️, which fuels my creativity and inspires my work. These enriching experiences broaden my horizons and motivate me to incorporate new perspectives 🌷 into my projects.
+    I invite you to explore my achievements and see how I combine my technical skills with my passion for innovation. Please feel free to reach out if you'd like to exchange ideas, collaborate, or simply discuss exciting projects🤗. Together, let's push the boundaries of technology and explore new frontiers 🪐!
     """
 )
-    st.header("My Professional background🗓️")
+    st.header("My Academic background🗓️")
 
     timeline_data = [
         {
