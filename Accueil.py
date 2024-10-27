@@ -172,42 +172,42 @@ def show_experiences():
             "year": 2026,
             "title": "Engineering degree in Big Data Engineering",
             "description": "I will obtain my engineering degree in Big Data Engineering from Efrei Paris. This program is designed to equip me with advanced skills in data processing, analytics, and machine learning, positioning me for success in the ever-evolving landscape of data science.",
-            "width": 120,
+            "width": 150,
             "image": "https://etudestech.com/wp-content/uploads/2022/01/logo_efrei_web_bleu-1024x334.png"
         },
         {
             "year": 2025,
             "title": "Second year of Engineering Program - M1",
             "description": "Currently, I am in the second year of the engineering program (M1), focusing on data engineering courses that strengthen my understanding of key concepts and technologies in the field. This year has been pivotal in solidifying my foundation for future studies and professional endeavors.",
-            "width": 120,
+            "width": 150,
             "image": "https://etudestech.com/wp-content/uploads/2022/01/logo_efrei_web_bleu-1024x334.png"
         },
         {
             "year": 2024,
             "title": "First year of Engineering Program - L3",
             "description": "In my first year of the engineering program at EFREI, I learned essential tools such as Apache Spark, PySpark, and Power BI. This knowledge has been crucial in enhancing my ability to analyze and visualize data effectively",
-            "width": 120,
+            "width": 150,
             "image": "https://www.mondedesgrandesecoles.fr/wp-content/uploads/Efrei-Paris-Campus-Villejuif-ILab-Campus-05000-scaled.jpg"
         },
         {
             "year": 2024,
             "title": "EXCHANGE SEMESTER",
             "description": "I had the opportunity to participate in an exchange semester at AGH University of Science and Technology in Poland, where I studied network programming, networks, and telecommunications. This experience broadened my perspective on the intersection of data engineering and networking.",
-            "width": 120,
+            "width": 150,
             "image": "https://www.eduopinions.com/wp-content/uploads/2017/09/University-of-Science-and-Technology-AGH-campus.jpg"
         },
         {
             "year": 2023,
             "title": "CPGE",
             "description": "I attended the French Pre-Engineering Classes (CPGE) in Mathematics and Physics (MPSI) at the Institut National Polytechnique Felix Houphouët Boigny in Côte d'Ivoire. This rigorous program prepared me for the challenges of engineering studies and laid the groundwork for my future academic pursuits",
-            "width": 120,
+            "width": 150,
             "image": "https://afriqueitnews.com/wp-content/uploads/inphb.jpeg"
         },
         {
             "year": 2021,
             "title": "HIGH SCHOOL DEGREE",
             "description": "I graduated with hight honors from the Scientific High School of Yamoussoukro in Côte d'Ivoire, where I developed a strong foundation in the sciences. This achievement marked the beginning of my journey into the world of engineering and technology",
-            "width": 120,
+            "width": 150,
             "image": "https://bunny-wp-pullzone-vil2btjhll.b-cdn.net/wp-content/uploads/2023/10/Le_Lycee_scientifique_de_Yamoussoukro_03.jpg"
         },
     ]
