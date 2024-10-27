@@ -20,7 +20,7 @@ def display_home():
 
 def hero():
     # --- HERO SECTION ---
-    st.title("ABOUT ME", anchor=False)
+    st.title("Welcome to My Portfolio 🌝🌝🌝! ", anchor=False)
     col1, col2 = st.columns(2, gap="small", vertical_alignment="center")
     with col1:
         st.image("./images/profile.png", width=300)
@@ -43,9 +43,9 @@ def hero():
 
 def social_media():
     SOCIAL_MEDIA = {
-    "YouTube": "https://www.youtube.com/",
-    "LinkedIn": "www.linkedin.com/in/aminata-sarah-fatim-diomande",
     "GitHub": "https://github.com/sarafa19",
+    "YouTube": "https://www.youtube.com/",
+    "LinkedIn": "https://www.linkedin.com/in/aminata-sarah-fatim-diomande/",
     "Twitter": "https://twitter.com",
 }
     st.write('\n')
@@ -149,24 +149,20 @@ def show_experiences():
 
       # --- EXPERIENCE & QUALIFICATIONS ---
     st.write("\n")
-    st.subheader("Experience & Qualifications", anchor=False)
+    st.subheader("Welcome to My Passionate Journey in Big Data Engineering !", anchor=False)
     st.write(
     """
-    - 4 Years experience extracting actionable insights from data
-    - Strong hands-on experience and knowledge in Python and Excel
-    - Good understanding of statistical principles and their respective applications
-    - Excellent team-player and displaying a strong sense of initiative on tasks
+    I am excited to welcome you to this space that reflects my passion for Data Engineering and the development of innovative solutions. As a person full of energy, I firmly believe that curiosity and determination are key to transforming ideas into tangible accomplishments.
+    Through my projects, I aim to tackle complex problems by leveraging my skills in data analysis, machine learning, and web development. Each project you will discover here showcases my commitment to excellence and my ability to face technical challenges.
     """
     )
     # --- SKILLS ---
     st.write("\n")
-    st.subheader("Hard Skills", anchor=False)
+    st.subheader("Exploring Creativity Through Travel and Collaboration !", anchor=False)
     st.write(
     """
-    - Programming: Python (Scikit-learn, Pandas), SQL, VBA
-    - Data Visualization: PowerBi, MS Excel, Plotly
-    - Modeling: Logistic regression, linear regression, decision trees
-    - Databases: Postgres, MongoDB, MySQL
+    But beyond my technical skills, I am also a fun and dynamic individual, always ready to take on new challenges. I love to travel and explore unusual places, which fuels my creativity and inspires my work. These enriching experiences broaden my horizons and motivate me to incorporate new perspectives into my projects.
+    I invite you to explore my achievements and see how I combine my technical skills with my passion for innovation. Please feel free to reach out if you'd like to exchange ideas, collaborate, or simply discuss exciting projects. Together, let's push the boundaries of technology and explore new frontiers!
     """
 )
     st.header("My Professional background🗓️")
@@ -174,45 +170,45 @@ def show_experiences():
     timeline_data = [
         {
             "year": 2026,
-            "title": "Master's degree in Big Data Engineering",
-            "description": "Diplome d'ingénieur en cours d'étude",
-            "width": 150,
+            "title": "Engineering degree in Big Data Engineering",
+            "description": "I will obtain my engineering degree in Big Data Engineering from Efrei Paris. This program is designed to equip me with advanced skills in data processing, analytics, and machine learning, positioning me for success in the ever-evolving landscape of data science.",
+            "width": 120,
             "image": "https://etudestech.com/wp-content/uploads/2022/01/logo_efrei_web_bleu-1024x334.png"
         },
         {
             "year": 2025,
             "title": "Second year of Engineering Program - M1",
-            "description": "Efrei Paris - Data engineering courses",
-            "width": 70,
+            "description": "Currently, I am in the second year of the engineering program (M1), focusing on data engineering courses that strengthen my understanding of key concepts and technologies in the field. This year has been pivotal in solidifying my foundation for future studies and professional endeavors.",
+            "width": 120,
             "image": "https://etudestech.com/wp-content/uploads/2022/01/logo_efrei_web_bleu-1024x334.png"
         },
         {
             "year": 2024,
             "title": "First year of Engineering Program - L3",
-            "description": "learning of Apache Spark, PySpark and Power BI ",
+            "description": "In my first year of the engineering program at EFREI, I learned essential tools such as Apache Spark, PySpark, and Power BI. This knowledge has been crucial in enhancing my ability to analyze and visualize data effectively",
             "width": 120,
-            "image": "https://etudestech.com/wp-content/uploads/2022/01/logo_efrei_web_bleu-1024x334.png"
+            "image": "https://www.mondedesgrandesecoles.fr/wp-content/uploads/Efrei-Paris-Campus-Villejuif-ILab-Campus-05000-scaled.jpg"
         },
         {
             "year": 2024,
             "title": "EXCHANGE SEMESTER",
-            "description": "AGH University of Science and Technology \n Network programming, Réseaux et telecoms",
+            "description": "I had the opportunity to participate in an exchange semester at AGH University of Science and Technology in Poland, where I studied network programming, networks, and telecommunications. This experience broadened my perspective on the intersection of data engineering and networking.",
             "width": 120,
-            "image": "./images/photo1.jpg"
+            "image": "https://www.eduopinions.com/wp-content/uploads/2017/09/University-of-Science-and-Technology-AGH-campus.jpg"
         },
         {
             "year": 2023,
             "title": "CPGE",
-            "description": "FRENCH PRE-ENGINEERING CLASSES: MPSI (MATHEMATICS, PHYSICS) \n Institut National Polytechnique Felix Houphouët Boigny \n Côte d'Ivoire",
-            "width": 80,
-            "image": "./images/photo1.jpg"
+            "description": "I attended the French Pre-Engineering Classes (CPGE) in Mathematics and Physics (MPSI) at the Institut National Polytechnique Felix Houphouët Boigny in Côte d'Ivoire. This rigorous program prepared me for the challenges of engineering studies and laid the groundwork for my future academic pursuits",
+            "width": 120,
+            "image": "https://afriqueitnews.com/wp-content/uploads/inphb.jpeg"
         },
         {
             "year": 2021,
             "title": "HIGH SCHOOL DEGREE",
-            "description": "Scientific High School of Yamoussoukro \n Côte d'Ivoire",
-            "width": 70,
-            "image": "./images/photo1.jpg"
+            "description": "I graduated with hight honors from the Scientific High School of Yamoussoukro in Côte d'Ivoire, where I developed a strong foundation in the sciences. This achievement marked the beginning of my journey into the world of engineering and technology",
+            "width": 120,
+            "image": "https://bunny-wp-pullzone-vil2btjhll.b-cdn.net/wp-content/uploads/2023/10/Le_Lycee_scientifique_de_Yamoussoukro_03.jpg"
         },
     ]
 
