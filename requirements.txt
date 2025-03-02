@@ -1,6 +1,5 @@
 ipykernel
 ipython
-scipy==1.11.1
 annotated-types==0.7.0
 htmlmin==0.1.12
 httpcore==1.0.5
