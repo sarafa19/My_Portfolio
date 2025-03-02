@@ -12,13 +12,10 @@ pandas
 plotly
 py4j==0.10.7
 scikit-learn
-scikit-learn-intelex==20230426.121932
-scipy==1.11.1
 seaborn
 streamlit==1.38.0
 streamlit-lottie==0.0.5
 streamlit-option-menu==0.4.0
 streamlit-timeline==0.0.2
 streamlit_folium==0.22.0
-tensorflow==2.16.1
 
