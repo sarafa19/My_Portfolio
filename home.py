@@ -25,10 +25,7 @@ def main():
         Accueil.display_home()
     elif page == "🚴‍♂️Cyclo-Paris":
         import Accidents_velo_app  
-        Accidents_velo_app.display_projet1()
-    elif page == "Profile":
-        import essai
-        essai.essayage  
+        Accidents_velo_app.display_projet1() 
 
 if __name__ == "__main__":
     main()
